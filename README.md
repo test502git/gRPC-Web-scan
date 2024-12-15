@@ -112,7 +112,9 @@ message User {
 ### HTML 报告预览
 
 <p align="center">
-  <img src="report-preview.png" alt="HTML报告预览" width="600"/>
+  <img src="report_1.png" alt="HTML报告预览" width="600"/>
+    <img src="report_2.png" alt="HTML报告预览" width="600"/>
+
 </p>
 
 ## 贡献指南
